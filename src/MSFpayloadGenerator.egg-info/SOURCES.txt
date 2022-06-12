@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+src/payload.py
+src/MSFpayloadGenerator.egg-info/PKG-INFO
+src/MSFpayloadGenerator.egg-info/SOURCES.txt
+src/MSFpayloadGenerator.egg-info/dependency_links.txt
+src/MSFpayloadGenerator.egg-info/requires.txt
+src/MSFpayloadGenerator.egg-info/top_level.txt
