@@ -9,11 +9,11 @@ $ apt update && apt upgrade
 ```
 * Clone project
 ```bash
-$ git clone https://github.com/WIZARD00007/MSFpayloadGenerator1
+$ git clone https://github.com/WIZARD00007/MSFpayloadGenerator3
 ```
 * Installing requirements
 ```bash
-$ cd MSFpayloadGenerator
+$ cd MSFpayloadGenerator3
 $ chmod +x setup.py
 $ python3 setup.py 
 ```
@@ -39,7 +39,7 @@ $ pkg update && pkg upgrade
 ```
 * Clone project
 ```bash
-$ git clone https://github.com/WIZARD00007/MSFpayloadGenerator1
+$ git clone https://github.com/WIZARD00007/MSFpayloadGenerator3
 ```
 * Installing requirements
 ```bash
