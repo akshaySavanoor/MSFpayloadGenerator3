@@ -9,7 +9,7 @@ $ apt update && apt upgrade
 ```
 * Clone project
 ```bash
-$ git clone https://github.com/WIZARD00007/MSFpayloadGenerator
+$ git clone https://github.com/WIZARD00007/MSFpayloadGenerator1
 ```
 * Installing requirements
 ```bash
@@ -39,7 +39,7 @@ $ pkg update && pkg upgrade
 ```
 * Clone project
 ```bash
-$ git clone https://github.com/WIZARD00007/MSFpayloadGenerator
+$ git clone https://github.com/WIZARD00007/MSFpayloadGenerator1
 ```
 * Installing requirements
 ```bash

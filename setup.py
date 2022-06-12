@@ -31,5 +31,5 @@ setup(
     },
     author="Akshay",
     author_email="akshaysavanoor@gmail.com",
-    url="https://github.com/WIZARD00007/MSFpayloadGenerator",
+    url="https://github.com/WIZARD00007/MSFpayloadGenerator1",
 )
